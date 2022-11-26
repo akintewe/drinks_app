@@ -462,13 +462,13 @@ class _HomePageState extends State<HomePage>
                                                           print("Hel");
                                                         },
                                                         child: ShakeWidget(
-                                                          shakes: "Mix shake",
+                                                          shakes: "Milk shake",
                                                           shakesImg: _shakes[0],
                                                           price: "543",
                                                         ),
                                                       ),
                                                       ShakeWidget(
-                                                        shakes: "Soft shake",
+                                                        shakes: "Sundae shake",
                                                         shakesImg: _shakes[1],
                                                         price: "342",
                                                       ),
